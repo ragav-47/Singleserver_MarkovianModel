@@ -1,5 +1,6 @@
-# Single seriver infinite capacity - Markovian Model
-
+### EX NO : 07
+### DATE  : 15.06.2022
+# <p align="center">Single seriver infinite capacity - Markovian Model</p>
 # Aim : 
 To find 
       (a) average  number of materials in the system
@@ -8,14 +9,9 @@ To find
       (d) waitinging time of each material in the conveyor
 if arrival rate of material  follows poisson process 4 per minuates and serivice rate of lathe machine follows 
 exponential distribution with mean serice rate 5 per minutes.
-
-
 # Software required :  
-
 Visual components and Python
-
 # Theory:
-
   Queuing are the most frequently encountered problems in everyday life. For example, queue
 at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects
 requiring service and the attendant delays when the service mechanism is busy. Waiting lines
@@ -25,14 +21,9 @@ organization. Waiting time can be reduced by providing additional service facili
 result in an increase in the idle time of the service mechanism. 
 
 ![image](https://user-images.githubusercontent.com/104613195/173292918-2583e4d3-a3d8-45fa-a577-9d0ebf79f0a5.png)
-
-
 ![image](https://user-images.githubusercontent.com/104613195/173292021-8c3b77dc-a9c2-4179-91ed-17e1db7039df.png)
 
-
- 
 # Procedure :
- 
 1. Calcualte average number of materials to be waitted in the conveyor using given data.
 2. Create a empty project  in visual component tool and add visual legacy component to the project.
 3. Drag a feeder and place in a place and choose the appropriate materal.
@@ -45,7 +36,7 @@ result in an increase in the idle time of the service mechanism.
 10. Run the program.
 # Experiment 
 
-![image](https://user-images.githubusercontent.com/104613195/175239086-d102fbc4-bc83-418d-8816-4c48fdbc9120.png)
+![2 (1)](https://user-images.githubusercontent.com/75235488/175541364-50dfda25-3008-483b-be58-7a3af2d6fcab.png)
 
 # Program
 
